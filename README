@@ -1,0 +1,12 @@
+SquareWell
+==========
+
+Nick Walker
+
+Purpose:
+
+This program simulates the wave-like behavior of a particle in an infinite square well. The user must input a range of stationary states, allowing for the simulation of single wave numbers or a superposition of wavenumbers. In the future, this might be made a bit more accurate and interactive for the user. The real wave is plotted in blue, the imaginary in red, and the probability density function in black.
+
+Development:
+
+Development may or may not continue on this.
